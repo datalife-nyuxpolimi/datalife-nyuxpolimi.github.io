@@ -1,3 +1,4 @@
-# The Urban Dynamics around the New York & Milano Fashion Weeks
+theme: jekyll-theme-cayman
+title: The Urban Dynamics around the New York & Milano Fashion Weeks
 
 ## NYU CUSP - POLIMI Capstone 2020
